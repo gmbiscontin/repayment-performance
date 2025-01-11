@@ -4,6 +4,10 @@
 
 The project involves analyzing a crowdfunding microfinance platform that connects entrepreneurs in developing countries with investors. The CEO of the company has identified that the platform’s business model isn't functioning effectively, and they need help understanding why. The task is to identify the problem, propose potential solutions, and present these ideas to the CEO.
 
+### Dependencies and Tools:
+- Programming languages: Python, STATA
+- Packages: tidyverse, heckprob regression
+
 ---
 
 ## Key Components of the Project:
